@@ -1,0 +1,14 @@
+{
+  "name": "node-exercise",
+  "version": "1.0.0",
+  "description": "springboard exercise",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zach",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
